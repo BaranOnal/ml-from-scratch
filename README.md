@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ML From Scratch
 
 Machine learning algorithms implemented **from scratch** using NumPy, with a focus on understanding the **mathematical foundations** and **core mechanics** behind each model.
