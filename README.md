@@ -86,6 +86,17 @@ Reusable helper functions:
  `utils/`
 
 ---
+### 7. Tree-Based Models
+
+This folder contains Decision Tree and Random Forest implementations
+written from scratch using NumPy.
+
+- Decision Tree (entropy & information gain based splitting)
+- Random Forest (bootstrap sampling + majority voting)
+
+ `tree/`
+
+---
 ## Tech Stack
 
 * Python
@@ -104,13 +115,6 @@ python linear_regression/linear_regression_from_scratch.py
 
 ---
 
-## Author
-
-Baran Onal
-Computer Engineering Student
-
----
-
 ## Next Steps
 
 * Extend neural network depth
@@ -119,7 +123,3 @@ Computer Engineering Student
 ---
 
 For reviewers: this repository documents my learning progress through clear, from-scratch implementations, and each module represents concepts whose underlying mathematics I can explain at a foundational level.
-=======
-# ml-from-scratch
-Machine learning algorithms implemented from scratch with NumPy.
->>>>>>> d24e66f5a7d44aa5445f73bea2a5b1beb5a41542
