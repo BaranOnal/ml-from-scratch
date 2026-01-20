@@ -13,8 +13,6 @@ This repository is designed as a **learning-focused codebase**. Implementations 
 - Build solid fundamentals before using high-level frameworks
 - Develop clean, modular, and readable ML code
 
-This repo is intentionally **low-level**.
-
 ---
 
 ## Implemented Algorithms
@@ -94,6 +92,19 @@ written from scratch using NumPy.
 - Random Forest (bootstrap sampling + majority voting)
 
  `tree/`
+
+---
+## Clustering
+
+### 8. K-Means
+Implementation of the K-Means clustering algorithm from scratch using NumPy.
+
+- Unsupervised learning 
+- Random centroid initialization
+- Iterative cluster assignment and centroid update
+- Convergence based on centroid movement
+
+ `k_means/`
 
 ---
 ## Tech Stack
