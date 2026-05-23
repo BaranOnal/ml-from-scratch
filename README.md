@@ -128,7 +128,8 @@ python linear_regression/linear_regression_from_scratch.py
 ## Next Steps
 
 * Extend neural network depth
-* Publish an **advanced neural network implementation** as a separate repository and link it here
+* Publish an **advanced neural network implementation** as a separate repository:
+[GitHub: neural-network-from-scratch](https://github.com/BaranOnal/neural-network-from-scratch)
 
 ---
 
